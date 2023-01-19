@@ -1,3 +1,3 @@
 # QRcodeGenerator
-Gernerate QR code with python 
+Gernerate QR code with python <br>
 ساخت qrcode با پایتون
